@@ -1,0 +1,21 @@
+body{
+    
+    background-image: url(../app_aula/img/42836adf0826dbfa27034fc55566d3a2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    flex: 1;
+
+    display: grid;
+       
+}
+
+.conteudo{
+
+    font-size: large;
+    color: white;
+}
+
+
+
+

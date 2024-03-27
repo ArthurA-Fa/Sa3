@@ -1,0 +1,9 @@
+.centro{
+    align-self: center;
+    justify-self: center;
+}
+
+body{
+    display: grid;
+}
+
